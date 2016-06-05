@@ -2,9 +2,9 @@
   "name": "angular-seed-micro",
   "private": true,
   "devDependencies": {
-    "bower": "master",
-    "http-server": "master",
-    "shelljs": "master"
+    "bower": "latest",
+    "http-server": "latest",
+    "shelljs": "latest"
   },
   "scripts": {
     "postinstall": "bower install",
